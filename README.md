@@ -6,7 +6,7 @@
 <body>
 <p>this text is not in the center.</p>
 <center>
-<p>this text is in the center.</>
+<p>this text is in the center.</p>
 </center>
 </body>
 </html>
